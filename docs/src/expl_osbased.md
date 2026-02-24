@@ -16,7 +16,7 @@ Then the dilatation $\theta_i$ is needed, which is defined with the weighted vol
 ```
 With the previously determined variables, the force vector state $\boldsymbol{t}^i$ is defined as 
 ```math
-\boldsymbol{t}^i \left( \boldsymbol{\Delta X}^{ij} \right) = \frac{K \, \theta_i}{m_i} \, \omega \, | \boldsymbol{\Delta X}^{ij} | + \frac{15 \, G}{m_i} \, \omega \, \left( |\boldsymbol{\Delta x}^{ij}|-|\boldsymbol{\Delta X}^{ij}| - \frac{\theta_i \, |\boldsymbol{\Delta X}^{ij}|}{3} \right) \; .
+\boldsymbol{t}^i \left( \boldsymbol{\Delta X}^{ij} \right) = \frac{3 \, K \, \theta_i}{m_i} \, \omega \, | \boldsymbol{\Delta X}^{ij} | + \frac{15 \, G}{m_i} \, \omega \, \left( |\boldsymbol{\Delta x}^{ij}|-|\boldsymbol{\Delta X}^{ij}| - \frac{\theta_i \, |\boldsymbol{\Delta X}^{ij}|}{3} \right) \; .
 ```
 with shear modulus $G$ and bulk modulus $K$ [Silling2007](@cite).
 
